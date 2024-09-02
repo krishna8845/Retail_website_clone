@@ -1,0 +1,151 @@
+*{
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+.nav{
+    border: 5px solid #f08804;
+    height: 70px;
+    color: white;
+    background-color: black;
+}
+button{
+    color: black;
+    background-color: #f08804;
+}
+#logo{
+    margin-left: 2%;
+    color: #f08804;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 13%;
+}
+input{
+    color: black;
+}
+
+#heading1{
+    display: inline;
+    color: black;
+    font-size: 25px;
+}
+#name{
+    font-size:x-large;
+    background-color: #ee9726;
+    color: black;
+    font-weight: lighter;
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#oppo1{
+    margin-left: 10%;
+    color: black; 
+    font-weight: bold;
+}
+#oppo2{
+    margin-left: 4.5%;
+    margin-right: 12.5%;
+    color: black;
+    font-weight: bold;
+}
+#oppo3{
+    margin-left: 4.5%;
+    margin-right: 12%;
+    color: black;
+    font-weight: bold;
+}
+#oppo4{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: black;
+    font-weight: bold;
+}
+.images1{
+    color: black;
+    height: 260px;
+    margin-right: 1%;
+    margin-left: 7%;
+}
+.oppof25{
+    border-color: black;
+    height: 20px;
+}
+.names{
+    margin-left: 3%;
+    color: black;
+    margin-right: 10%;
+}
+.items{
+    background-color: rgb(153, 244, 244);
+}
+#i1{
+    border: 0px solid white;
+    border-radius: 7%;
+}
+#i2{
+    border: 0px solid white;
+    border-radius: 7%;
+}
+#price1{
+    margin-left: 4%;
+    color: black;
+    margin-right:18% ;
+}
+#price2{
+    margin-left: 2%;
+    color: black;
+    margin-right:19% ;
+}
+#price3{
+    margin-left: 1%;
+    color: black;
+    margin-right:10% ;
+}
+#i14{
+    border: 0px solid white;
+    border-radius: 9%;
+}
+#ios15{
+    border: 0px solid white;
+    border-radius: 11%;
+}
+#price4{
+    margin-left: 10%;
+    color: black;
+    margin-right:10% ;
+}
+#oneplus{
+    margin-left: 1%;
+}
+.item2{
+    height: 400px;
+    background-color: #C4E0F9;
+}
+#name2{
+    background-color:#f08804;
+    font-size: x-large;
+    font-weight: lighter;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#dell5430{
+    margin-left: 25px;
+    border: 10px solid none;
+}
+#laptop1{
+    margin-left:6%;
+    margin-right: 10px;
+    color: black;
+    font-weight: bold;
+}
+#amount1{
+    color: black;
+    margin: 0% 6% 0% 8%;
+}
